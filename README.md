@@ -6,6 +6,7 @@ Horror, Romance, Comedy, History, Adventure, Action
 
 Write a program that takes the number of people, then takes the name of each person with their favorite genres and prints the name of each genre and the number of people interested in that genre in the order of the most interested in the output. (If the level of interest in different genres is the same, print in alphabetical order in the output.)
 for examle for this input:
+
 4
 
 hossein Horror Romance Comedy
